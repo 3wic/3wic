@@ -17,17 +17,15 @@ I am a "builder" at heart who thrives at the intersection of **Technology** and 
 - **Database & Cloud:** MongoDB, Google Cloud Platform (GCP), Azure
 - **Operations:** Process Automation, Scalable Workflows, Digital Transformation
 
-### 📈 Current Focus
-I help growing companies bridge the gap between business needs and technical reality. I specialize in developing custom apps and services that transform manual bottlenecks into scalable automated processes.
+### 💡 How I can help
+I specialize in helping companies bridge the gap between business needs and technical reality:
+- **Custom App Development:** Building tailored tools (ERP, CRM, Internal Tools) to replace manual work.
+- **Process Optimization:** Transforming complex business bottlenecks into scalable automated workflows.
+- **Fractional CTO/COO:** Providing strategic leadership for fast-growing structures.
 
 ---
 
 ### 📫 Connect with me
-- **LinkedIn:** www.linkedin.com/in/eric-klein-3wic
-
+- **LinkedIn:** [linkedin.com/in/eric-klein-3wic](https://www.linkedin.com/in/eric-klein-3wic)
 - **Services:** Available for IT Consulting & Custom App Development
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
